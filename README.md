@@ -71,4 +71,4 @@ If you're new to Power BI, here are some helpful links:
 
 
 Contact
-For any questions or feedback, feel free to contact me at Shivam Manohar Patil.
+For any questions or feedback, feel free to contact me at Shivam Patil (shivampatil597@gmail.com).

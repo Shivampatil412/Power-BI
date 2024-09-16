@@ -20,48 +20,48 @@ To follow along with the tutorial, you will need:
 The tutorial covers the following key areas of Power BI:
 
 1. Visualizations
--> How to create and customize various types of charts:
--> Bar and Column Charts
--> Pie Charts
--> Line Charts
--> Scatter Plots
--> Maps and Geo-visualizations
--> Combo Charts (Bar & Line)
--> Custom Visuals
+- How to create and customize various types of charts:
+- Bar and Column Charts
+- Pie Charts
+- Line Charts
+- Scatter Plots
+- Maps and Geo-visualizations
+- Combo Charts (Bar & Line)
+- Custom Visuals
    
 3. Power Query
--> How to import, clean, and transform data using Power Query.
--> Removing duplicates and nulls
--> Merging and appending queries
--> Conditional columns
--> Splitting columns and transforming data types
+- How to import, clean, and transform data using Power Query.
+- Removing duplicates and nulls
+- Merging and appending queries
+- Conditional columns
+- Splitting columns and transforming data types
    
 4. DAX (Data Analysis Expressions)
--> Basic to advanced DAX formulas for calculated columns and measures, including: SUM(), AVERAGE(), COUNT(), DISTINCT()
--> Time Intelligence functions like TOTALYTD(), DATESBETWEEN()
--> Logical functions: IF(), SWITCH()
--> Relationships and calculated tables
+- Basic to advanced DAX formulas for calculated columns and measures, including: SUM(), AVERAGE(), COUNT(), DISTINCT().
+- Time Intelligence functions like TOTALYTD(), DATESBETWEEN()
+- Logical functions: IF(), SWITCH()
+- Relationships and calculated tables
    
 5. Notes PDF
--> A PDF document containing detailed explanations of all steps and techniques used in the tutorial.
-      -> Key concepts of Power BI covered in the document
-      -> Best practices for designing interactive dashboards
-      -> Troubleshooting common Power BI issues
+- A PDF document containing detailed explanations of all steps and techniques used in the tutorial.
+      - Key concepts of Power BI covered in the document
+      - Best practices for designing interactive dashboards
+      - Troubleshooting common Power BI issues
 
 ## How to Use
 1. Download or Clone the Repository:
-    -> Download the repository or clone it using the following command:
+    - Download the repository or clone it using the following command:
       ```
       git clone https://github.com/your-username/power-bi-tutorial.git
       ```
 2. Open Power BI Files:
-    -> Open the .pbix files in Power BI Desktop to explore the dashboard and reports.
+    - Open the .pbix files in Power BI Desktop to explore the dashboard and reports.
    
 4. Refer to the Notes PDF:
-    -> Open the Power_BI_Tutorial_Notes.pdf to follow the detailed guide as you explore the dashboards and experiment with the DAX calculations and Power Query transformations.
+    - Open the Power_BI_Tutorial_Notes.pdf to follow the detailed guide as you explore the dashboards and experiment with the DAX calculations and Power Query transformations.
    
 6. Modify and Experiment:
-    -> Modify the charts, queries, and DAX measures to better understand the tool and apply the concepts to your own datasets.
+    - Modify the charts, queries, and DAX measures to better understand the tool and apply the concepts to your own datasets.
    
 ## Additional Resources
 If you're new to Power BI, here are some helpful links:

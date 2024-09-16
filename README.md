@@ -5,16 +5,16 @@ This repository contains a comprehensive tutorial for learning Power BI, coverin
 ## Contents
 This repository includes the following materials:
 
--> Power BI Dashboard Files (.pbix): These contain various charts, including bar charts, pie charts, line charts, and custom visuals.
--> Power Query Demonstrations: Step-by-step instructions for cleaning and transforming data within Power BI using Power Query.
--> DAX Calculations: Examples of DAX formulas for calculated columns, measures, and advanced analysis.
--> Notes PDF: A detailed guide in PDF format, covering all the steps and explanations used in the tutorial.
+- Power BI Dashboard Files (.pbix): These contain various charts, including bar charts, pie charts, line charts, and custom visuals.
+- Power Query Demonstrations: Step-by-step instructions for cleaning and transforming data within Power BI using Power Query.
+- DAX Calculations: Examples of DAX formulas for calculated columns, measures, and advanced analysis.
+- Notes PDF: A detailed guide in PDF format, covering all the steps and explanations used in the tutorial.
 
 ## Prerequisites
 To follow along with the tutorial, you will need:
 
--> Power BI Desktop: Download and install Power BI Desktop from the official Microsoft Power BI site.
--> Basic understanding of data analytics and familiarity with Excel or similar spreadsheet tools is helpful but not required.
+- Power BI Desktop: Download and install Power BI Desktop from the official Microsoft Power BI site.
+- Basic understanding of data analytics and familiarity with Excel or similar spreadsheet tools is helpful but not required.
 
 ## Features Covered
 The tutorial covers the following key areas of Power BI:
